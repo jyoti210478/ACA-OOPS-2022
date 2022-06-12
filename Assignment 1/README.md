@@ -1,4 +1,4 @@
-cd/ takes to top of directory
+.cd/ takes to top of directory
 cd.. allows to go back to parent directory.
 c:\\users\[username]\folder name allows to changes directory to folder name 
 entered.
